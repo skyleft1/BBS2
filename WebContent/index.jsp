@@ -9,7 +9,7 @@
 <title>jsp 게시판 웹 사이트</title>
 </head>
 <body>
-
+  
 <div id= "header" >
   <div id= "nav_back">
     <div id= "nav_login">
