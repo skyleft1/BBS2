@@ -10,7 +10,7 @@
 </head>
 <body>
   
-<div id= "header" >
+<div id= "header" >  
   <div id= "nav_back">
     <div id= "nav_login">
       <div id="nav">nav
