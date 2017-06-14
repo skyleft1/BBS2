@@ -33,21 +33,21 @@
   </div>
 
   <div id ="image_slide">
-    <!-- <img src="css/header_main1.jpg" alt="slide 1" /> -->
+    <img src="css/우주소녀.jpg" alt="slide 1" />
 
   
   </div>
 </div>
 
 <div id="banner">
-  <div id = "slide_banner1">slide_banner1
-    <img src="css/banner/exer01.jpg" alt="slide 1" />
+  <div id = "slide_banner1">
+    <img src="css/초아.jpeg;" alt="slide 1" />
   </div>
-  <div id = "slide_banner2"> slide_banner2
-    <img src="css/banner/exer02.jpg" alt="slide 1" />
+  <div id = "slide_banner2"> 
+    <img src="css/설현.jpg" alt="slide 1" />
   </div>
-  <div id = "slide_banner3"> slide_banner3
-    <img src="css/banner/exer04.jpg" alt="slide 1" />
+  <div id = "slide_banner3"> 
+    <img src="css/아이린.jpg" alt="slide 1" />
   </div>
 </div>
 
