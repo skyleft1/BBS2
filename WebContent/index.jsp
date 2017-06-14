@@ -23,7 +23,7 @@
         </ul>
       </div>
 
-      <div id="login">login
+      <div id="login">login efdfdfdfdfdf2222
         <ul>
           <li class="sign_in"><a href="login.jsp">sign_in</a></li>
           <li class="sign_up">sign_up</li>
